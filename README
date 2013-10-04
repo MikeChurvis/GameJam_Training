@@ -1,0 +1,4 @@
+echo "# This is my README" >> README.md
+git add README.md
+git commit -m "First commit. Adding a README."
+git push -u origin master
